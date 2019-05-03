@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>images/cuacs_logo.png</file>
+    </qresource>
+</RCC>
